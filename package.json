@@ -1,0 +1,24 @@
+{
+  "name": "moj-nowy-projekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patryknowak921/moj-pierwszy-projekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patryknowak921/moj-pierwszy-projekt/issues"
+  },
+  "homepage": "https://github.com/patryknowak921/moj-pierwszy-projekt#readme"
+}
